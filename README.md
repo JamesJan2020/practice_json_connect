@@ -1,2 +1,2 @@
 # practice_json_connect
-利用ajax串接json資料並用 vue將資料render出來
+練習利用ajax串接json資料並用 vue將資料render出來
