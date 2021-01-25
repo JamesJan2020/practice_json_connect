@@ -1,0 +1,2 @@
+# practice_json_connect
+利用ajax跟vue 將json資料串接並render出來
